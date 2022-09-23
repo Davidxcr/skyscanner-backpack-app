@@ -51,7 +51,7 @@ const App = () => {
           previousMonthLabel="Previous month"
           selectionConfiguration={selectionConfiguration}
         />
-        <BpkButton onClick={() => alert('It works!')}>Click me</BpkButton>
+        <BpkButton onClick={() => alert('It works!')}>Continue</BpkButton>
       </main>
     </div >
   );
